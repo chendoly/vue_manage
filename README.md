@@ -1,6 +1,7 @@
 # vue_todolist
 
 > my first vue
+这是由Vue cli手脚架搭建的Vue管理人员项目
 
 ## Build Setup
 
